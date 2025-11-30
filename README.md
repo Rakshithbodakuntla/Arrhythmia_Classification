@@ -1,4 +1,5 @@
 Arrhythmia Classification using Deep Learning | Python, TensorFlow, Keras
+
 I Built an end-to-end ECG signal analysis pipeline using the MIT-BIH dataset, achieving 98%+ accuracy in heartbeat classification.
 Designed and trained five deep learning models (CNN, LSTM, Hybrid CNN-LSTM, Ensemble) with Batch Normalization, Dropout, L2 regularization, and adaptive learning rate scheduling.
 Implemented signal preprocessing, R-peak detection (XQRS), and class balancing to improve model robustness.
