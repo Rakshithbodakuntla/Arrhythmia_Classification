@@ -1,0 +1,11 @@
+feature,type,p_value,relevant
+val__standard_deviation,real,1.3829415361905326e-33,True
+val__variance,real,1.3829415361905326e-33,True
+val__median,real,6.567634732225345e-33,True
+val__sum_values,real,6.648136011447796e-33,True
+val__mean,real,6.648136011447796e-33,True
+val__root_mean_square,real,1.8175368901792886e-29,True
+val__minimum,real,5.695495990860485e-27,True
+val__absolute_maximum,real,1.561544635602457e-26,True
+val__maximum,real,2.3417400875166886e-21,True
+val__length,constant,,False
